@@ -96,7 +96,7 @@ A special thanks to **Codebasics** and **Dhaval Patel Sir** for their exceptiona
 ## Connect with Me
 - **Email**: shingne.susmit@gmail.com
 - **GitHub**:(https://github.com/SUSMIT-6704?tab=repositories)
-- **LinkedIn**: (https://www.linkedin.com/in/susmit-shingne-771a40304/)/]((https://www.linkedin.com/in/susmit-shingne-771a40304/))
+- **LinkedIn**:((https://www.linkedin.com/in/susmit-shingne-771a40304/))
 
 ---
 
