@@ -94,9 +94,9 @@ A special thanks to **Codebasics** and **Dhaval Patel Sir** for their exceptiona
 ---
 
 ## Connect with Me
-- **Email**: prabhudattapatra28@gmail.com
-- **GitHub**: [https://github.com/PrabhudattaPatra](https://github.com/PrabhudattaPatra)
-- **LinkedIn**: [https://www.linkedin.com/in/prabhudattapatra/](https://www.linkedin.com/in/prabhudattapatra/)
+- **Email**: shingne.susmit@gmail.com
+- **GitHub**:(https://github.com/SUSMIT-6704?tab=repositories)
+- **LinkedIn**: (https://www.linkedin.com/in/susmit-shingne-771a40304/)/]((https://www.linkedin.com/in/susmit-shingne-771a40304/))
 
 ---
 
